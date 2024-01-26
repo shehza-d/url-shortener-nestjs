@@ -1,0 +1,14 @@
+# npx prettier --write .
+
+# Ignore artifacts:
+coverage
+
+*.env
+.env.*
+**/build
+**/.git
+/.git
+**/.svn
+**/.hg
+**/node_modules
+/node_modules
