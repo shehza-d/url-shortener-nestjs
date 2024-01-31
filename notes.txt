@@ -1,0 +1,1 @@
+basic CRUD API in Nestjs => https://github.com/jherr/rtk-query-vs-rq/tree/main/server
